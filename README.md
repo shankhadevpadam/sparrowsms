@@ -83,7 +83,7 @@ public function routeNotificationForTurboSMS()
 Sometimes you may need to send a notification to someone who is not stored as a "user" of your application. Using the Notification::route method, you may specify ad-hoc notification routing information before sending the notification:
 
 ```php
-Notification::route('sparrow', '+380501111111')                      
+Notification::route('sparrow', '+9779841100000')                      
             ->notify(new AccountApproved());
 ```
 

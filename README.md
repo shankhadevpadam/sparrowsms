@@ -9,7 +9,7 @@
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-notification-channels/sparrowsms/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/sparrowsms/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel-notification-channels/sparrowsms.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/sparrowsms)
 
-This package makes it easy to send notifications using [SparrowSMS](https://sparrowsms.com/) with Laravel 5.5+, 6.0, 7.0, 8.0
+This package makes it easy to send notifications using [SparrowSMS](https://sparrowsms.com/) with Laravel 7.0, 8.0
 
 
 ## Contents
